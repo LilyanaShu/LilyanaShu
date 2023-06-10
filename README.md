@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilyanaShu
 - 🌱 I’m currently learning Flutter, Dart and Go
-- 💞️ I’m looking for a full time job
+- 💞️ I’m looking for a Mobile/Flutter full time job
 - 📫 You can reach me by email lilyana.shu@gmail.com
 
 <!---
